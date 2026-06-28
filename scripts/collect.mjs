@@ -196,6 +196,9 @@ function extractVenue(text, fallback) {
 /* ============== PR TIMES アダプタ ============== */
 
 const PRTIMES_KEYWORDS = [
+  "コスメ ポップアップ",
+  "韓国コスメ ポップアップ",
+  "メイク ポップアップ",
   "無料サンプル コスメ",
   "化粧品 サンプル 配布",
   "日用品 サンプル 配布",
@@ -204,9 +207,11 @@ const PRTIMES_KEYWORDS = [
   "コスメ ノベルティ プレゼント",
   "化粧品 ポップアップ",
   "コスメ 体験 イベント",
+  "ネイル ポップアップ",
+  "韓国コスメ 無料 サンプル",
 ];
 const PER_KEYWORD = 18;
-const TOTAL_LIMIT = 90;
+const TOTAL_LIMIT = 120;
 
 async function prtimesSearch(keyword) {
   const url =
@@ -241,6 +246,11 @@ async function prtimesParse(url) {
     )
     .trim();
   const lead = announcement.slice(0, 320);
+
+  // BtoB・製造業など、一般消費者向けでないイベントは除外
+  const NON_CONSUMER =
+    /自動車部品|製造業|工作機械|見本市|商談会|BtoB|B2B|半導体|建材|物流|産業展|部品|素材産業/;
+  if (NON_CONSUMER.test(title)) return null;
 
   // ジャンル: コスメ＋日用品 のみ
   if (!COSME_DAILY_RE.test(title) && !COSME_DAILY_RE.test(lead)) return null;
