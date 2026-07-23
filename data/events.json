@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T23:02:08.568Z",
+  "updatedAt": "2026-07-23T22:54:23.362Z",
   "events": [
     {
       "id": "ev-etoe-sauna-hotel-169-0073-東京都新宿区百人町2-20-2026-06-29-2026-07-30",
@@ -18,24 +18,6 @@
       "verified": false,
       "collectedAt": "2026-07-22T23:01:48.133Z",
       "firstSeen": "2026-06-28"
-    },
-    {
-      "id": "ev-銀座ロフト-2f-ポップアップスペース-2026-07-01-2026-07-22",
-      "title": "韓国発スキンケアブランド『manyo』期間限定POP－UPを銀座ロフトで開催！",
-      "brand": "株式会社ＩＫホールディングス",
-      "prefecture": "東京都",
-      "venue": "】 銀座ロフト 2F ポップアップスペース",
-      "lat": 35.69,
-      "lng": 139.69,
-      "startDate": "2026-07-01",
-      "endDate": "2026-07-22",
-      "url": "https://prtimes.jp/main/html/rd/p/000000453.000016153.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/16153/453/16153-453-67674ec396d630ecf8135958561e2106-1920x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "株式会社IKホールディングス（本社：愛知県名古屋市 代表取締役：長野庄吾）の100%子会社、株式会社アイケイ（本社：愛知県名古屋市 代表取締役：中島靖隆）は、韓国発スキンケアブランド『manyo（マニョ）』の期間限定POP-UPイベントを2…",
-      "verified": false,
-      "collectedAt": "2026-07-21T22:55:06.233Z",
-      "firstSeen": "2026-06-29"
     },
     {
       "id": "ev-となるmaison-kos-銀座では-2026-07-01-2026-08-31",
