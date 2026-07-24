@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T22:54:23.362Z",
+  "updatedAt": "2026-07-24T22:59:23.040Z",
   "events": [
     {
       "id": "ev-etoe-sauna-hotel-169-0073-東京都新宿区百人町2-20-2026-06-29-2026-07-30",
@@ -36,24 +36,6 @@
       "verified": true,
       "collectedAt": "2026-07-22T23:01:39.584Z",
       "firstSeen": "2026-06-30"
-    },
-    {
-      "id": "ev-アインズ-トルペ-新宿東口店-2026-07-03-2026-07-23",
-      "title": "韓国NO.1*ダーマコスメブランド「AESTURA」 夏のインナードライ肌に着目したPOP UPイベントをアインズ＆トルペ 新宿東口店にて7月3日(金)より開催",
-      "brand": "アモーレパシフィックジャパン株式会社",
-      "prefecture": "東京都",
-      "venue": "アインズ＆トルペ 新宿東口店",
-      "lat": 35.69,
-      "lng": 139.69,
-      "startDate": "2026-07-03",
-      "endDate": "2026-07-23",
-      "url": "https://prtimes.jp/main/html/rd/p/000000044.000119328.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/119328/44/119328-44-7a6ca19f20232bbd677cea84f129653b-2003x1350.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "韓国化粧品業界のリーディングカンパニーであるアモーレパシフィックの⽇本法⼈、アモーレパシフィックジャパン株式会社（所在地：東京都渋谷区）が展開する韓国No.1*ダーマコスメブランド「AESTURA」は、2026年7月3日（金）～7月23日（…",
-      "verified": false,
-      "collectedAt": "2026-07-22T23:01:09.616Z",
-      "firstSeen": "2026-07-01"
     },
     {
       "id": "ev-東京都-2026-07-10-2026-08-02",
