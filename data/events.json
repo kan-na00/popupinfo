@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T22:57:45.303Z",
+  "updatedAt": "2026-07-27T23:00:04.087Z",
   "events": [
     {
       "id": "ev-etoe-sauna-hotel-169-0073-東京都新宿区百人町2-20-2026-06-29-2026-07-30",
@@ -72,24 +72,6 @@
       "verified": false,
       "collectedAt": "2026-07-22T23:02:05.378Z",
       "firstSeen": "2026-07-16"
-    },
-    {
-      "id": "ev-大阪府-2026-07-17-2026-07-26",
-      "title": "【SNS総フォロワー100万人*超え！ほのぴす出演】福岡・六本松 蔦屋書店POP-UP に「JFラボコスメ」が出店！7月18日にスワイメイクショーを開催",
-      "brand": "株式会社日本機能性コスメ研究所",
-      "prefecture": "大阪府",
-      "venue": "大阪府",
-      "lat": 34.69,
-      "lng": 135.52,
-      "startDate": "2026-07-17",
-      "endDate": "2026-07-26",
-      "url": "https://prtimes.jp/main/html/rd/p/000000166.000043421.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/43421/166/43421-166-800604a722362cbfed0556d46e5fb780-1274x1486.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "株式会社日本機能性コスメ研究所（https://www.cosmelabo.shop/）は、2026年7月17日（金）～7月26日（日）開催の【 『The Select 2026』Thailand Beauty & Lifestyle Fe…",
-      "verified": false,
-      "collectedAt": "2026-07-21T22:55:00.946Z",
-      "firstSeen": "2026-07-14"
     },
     {
       "id": "ev-阪急うめだ本店-2階プロモーションスペース21-2026-07-22-2026-07-28",
