@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T22:56:11.769Z",
+  "updatedAt": "2026-07-29T22:58:12.071Z",
   "events": [
     {
       "id": "ev-etoe-sauna-hotel-169-0073-東京都新宿区百人町2-20-2026-06-29-2026-07-30",
@@ -72,24 +72,6 @@
       "verified": false,
       "collectedAt": "2026-07-22T23:02:05.378Z",
       "firstSeen": "2026-07-16"
-    },
-    {
-      "id": "ev-阪急うめだ本店-2階プロモーションスペース21-2026-07-22-2026-07-28",
-      "title": "【ジルスチュアート　ビューティ】フォールコレクション❝Blooming Chiffon❞をコンセプトにした先行販売POP UP イベントを全国三都市にて開催。",
-      "brand": "株式会社コーセー（戦略ブランド事業部）",
-      "prefecture": "愛知県",
-      "venue": "阪急うめだ本店 2階プロモーションスペース21",
-      "lat": 35.18,
-      "lng": 136.91,
-      "startDate": "2026-07-22",
-      "endDate": "2026-07-28",
-      "url": "https://prtimes.jp/main/html/rd/p/000000172.000047341.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/47341/172/47341-172-6cdc78742d1623f39cb98040db2b8d6d-1592x1125.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "ジルスチュアート ビューティは、2026年7月22日（水）から阪急うめだ本店を皮切りに、伊勢丹新宿店、ジェイアール名古屋タカシマヤにてPOP UP イベントを開催いたします。 フォールコレクション❝Blooming Chiffon❞をコンセ…",
-      "verified": false,
-      "collectedAt": "2026-07-22T23:01:56.428Z",
-      "firstSeen": "2026-07-22"
     },
     {
       "id": "ev-shinqsビューティーパレット南町田店-2026-07-23-2026-08-05",
