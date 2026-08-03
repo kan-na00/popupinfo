@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T22:54:56.224Z",
+  "updatedAt": "2026-08-03T22:58:12.486Z",
   "events": [
     {
       "id": "ev-となるmaison-kos-銀座では-2026-07-01-2026-08-31",
@@ -18,24 +18,6 @@
       "verified": true,
       "collectedAt": "2026-07-22T23:01:39.584Z",
       "firstSeen": "2026-06-30"
-    },
-    {
-      "id": "ev-東京都-2026-07-10-2026-08-02",
-      "title": "【ジェルミーワン・ジェルミーペタリー・ジーニッシュマニキュア】水森亜土とのコラボレーションを記念し、ハンズ名古屋店にて合同POPUPを開催",
-      "brand": "株式会社 コスメ・デ・ボーテ／Cosmé de Beauté Ltd.",
-      "prefecture": "東京都",
-      "venue": "東京都",
-      "lat": 35.69,
-      "lng": 139.69,
-      "startDate": "2026-07-10",
-      "endDate": "2026-08-02",
-      "url": "https://prtimes.jp/main/html/rd/p/000000125.000049074.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/49074/125/49074-125-a4b2f864085371528cb3d47a861adf49-1080x608.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "株式会社コスメ・デ・ボーテ（本社：東京都渋谷区 代表取締役社長：吉田 明人）は、世代を超えて愛される人気イラストレーター・水森亜土とのコラボレーションを記念し、ハンズ名古屋店にて『ジェルミーワン』『ジェルミーペタリー』『ジーニッシュマニキュ…",
-      "verified": false,
-      "collectedAt": "2026-07-22T23:01:57.855Z",
-      "firstSeen": "2026-07-03"
     },
     {
       "id": "ev-名-ララ-ィ-松坂屋名古屋店-pop-up-store-オープン日-2026年7月15日-2026-07-15-2026-12-31",
