@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T23:01:33.458Z",
+  "updatedAt": "2026-08-05T22:56:35.254Z",
   "events": [
     {
       "id": "ev-となるmaison-kos-銀座では-2026-07-01-2026-08-31",
@@ -90,24 +90,6 @@
       "verified": false,
       "collectedAt": "2026-07-22T23:01:57.387Z",
       "firstSeen": "2026-07-08"
-    },
-    {
-      "id": "ev-東京都-2026-07-29-2026-08-04",
-      "title": "【韓国コスメブランドが渋谷に大集結】「SEONGSU JAPAN SHIBUYA 2026」7月29日より7日間限定開催",
-      "brand": "KITERU合同会社",
-      "prefecture": "東京都",
-      "venue": "東京都",
-      "lat": 35.69,
-      "lng": 139.69,
-      "startDate": "2026-07-29",
-      "endDate": "2026-08-04",
-      "url": "https://prtimes.jp/main/html/rd/p/000000011.000177263.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/177263/11/177263-11-42f00743b7c8f5acb8a3a3b54d992a25-2214x1270.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "KITERU合同会社が運営する「SEONGSU JAPAN」は、韓国・聖水（ソンス）発のK-ビューティーカルチャーを日本で体験できるポップアップイベント「SEONGSU JAPAN SHIBUYA 2026」を、2026年7月29日（水）か…",
-      "verified": true,
-      "collectedAt": "2026-07-22T23:01:05.427Z",
-      "firstSeen": "2026-07-22"
     },
     {
       "id": "ev-内には-2026-08-01-2026-09-30",
