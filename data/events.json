@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T22:56:35.254Z",
+  "updatedAt": "2026-08-07T01:29:29.129Z",
   "events": [
     {
       "id": "ev-となるmaison-kos-銀座では-2026-07-01-2026-08-31",
@@ -38,24 +38,6 @@
       "firstSeen": "2026-07-16"
     },
     {
-      "id": "ev-shinqsビューティーパレット南町田店-2026-07-23-2026-08-05",
-      "title": "CML株式会社｜ShinQsビューティーパレット南町田店にて「花西子FLORASIS」のPOPUPをディレクション ―",
-      "brand": "CML株式会社",
-      "prefecture": "東京都",
-      "venue": "ShinQsビューティーパレット南町田店",
-      "lat": 35.69,
-      "lng": 139.69,
-      "startDate": "2026-07-23",
-      "endDate": "2026-08-05",
-      "url": "https://prtimes.jp/main/html/rd/p/000000008.000156347.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/156347/8/156347-8-0298247e015404fb79f70ee5effd1071-650x294.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "「美が、花ひらく」をコンセプトに、漢方処方と中国の伝統美学を融合させた中国発コスメブランド「花西子FLORASIS」は、2026年7月23日（木）より2週間、株式会社東急百貨店が運営するShinQsビューティーパレット南町田店にてポップアッ…",
-      "verified": false,
-      "collectedAt": "2026-07-21T22:54:59.886Z",
-      "firstSeen": "2026-07-16"
-    },
-    {
       "id": "ev-にて-too-cool-for-school-の商品を1点以上ご購入いただき-2026-07-24-2026-08-13",
       "title": "韓国発コスメブランド「too cool for school」渋谷ロフトで期間限定POP-UPイベントを開催／人気商品やオリジナルグッズが当たるSNSキャンペーンも実施",
       "brand": "TOO COOL FOR SCHOOL CO., LTD",
@@ -72,24 +54,6 @@
       "verified": false,
       "collectedAt": "2026-07-22T23:01:55.951Z",
       "firstSeen": "2026-07-22"
-    },
-    {
-      "id": "ev-東京都-2026-07-25-2026-08-05",
-      "title": "マッシュグループの人気ファッション&ビューティー18ブランド横断型の5日間限定イベント「MASH SUMMER WEEK 2026」が今年も開催決定！第2回目は「サンリオキャラクターズ」がナビゲート！",
-      "brand": "株式会社マッシュホールディングス",
-      "prefecture": "東京都",
-      "venue": "東京都",
-      "lat": 35.69,
-      "lng": 139.69,
-      "startDate": "2026-07-25",
-      "endDate": "2026-08-05",
-      "url": "https://prtimes.jp/main/html/rd/p/000004284.000018505.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/18505/4284/18505-4284-724a3aa316e826eb0156682bc96f82db-1152x1440.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "ファッション、ビューティー、フード等の事業を展開する株式会社マッシュホールディングス（本社：東京都千代田区、代表取締役社長：近藤広幸）が展開するマッシュグループ公式アプリ「MASH STORE(マッシュ ストア)」と株式会社マッシュスタイル…",
-      "verified": false,
-      "collectedAt": "2026-07-22T23:01:57.387Z",
-      "firstSeen": "2026-07-08"
     },
     {
       "id": "ev-内には-2026-08-01-2026-09-30",
