@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T22:28:24.424Z",
+  "updatedAt": "2026-08-10T22:35:11.400Z",
   "events": [
     {
       "id": "ev-となるmaison-kos-銀座では-2026-07-01-2026-08-31",
@@ -72,24 +72,6 @@
       "verified": false,
       "collectedAt": "2026-07-22T23:02:06.894Z",
       "firstSeen": "2026-07-22"
-    },
-    {
-      "id": "ev-東京都-2026-08-07-2026-08-09",
-      "title": "【OXO Project】“これもウェルネスなんだ”を体験できる3日間へ。ヘアケアブランド「diachic」・ボディケアブランド「nutseline」が出店決定",
-      "brand": "株式会社IROA",
-      "prefecture": "東京都",
-      "venue": "東京都",
-      "lat": 35.69,
-      "lng": 139.69,
-      "startDate": "2026-08-07",
-      "endDate": "2026-08-09",
-      "url": "https://prtimes.jp/main/html/rd/p/000000012.000169123.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/169123/12/169123-12-715e5f22faa9b404df691d1fa449a257-1172x1450.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "ウェルネス＆ビューティーポップアップイベント「OXO Project」は、2026年8月7日（金）〜9日（日）に東京・表参道で開催するイベントにおいて、ヘアケアブランド「diachic（ディアシック）」とボディケアブランド「nutselin…",
-      "verified": false,
-      "collectedAt": "2026-07-08T23:05:54.717Z",
-      "firstSeen": "2026-06-21"
     },
     {
       "id": "ev-pop-up-store-2026-08-21-2026-08-27",
