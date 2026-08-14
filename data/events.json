@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T22:38:34.605Z",
+  "updatedAt": "2026-08-14T22:20:02.072Z",
   "events": [
     {
       "id": "ev-となるmaison-kos-銀座では-2026-07-01-2026-08-31",
@@ -36,24 +36,6 @@
       "verified": false,
       "collectedAt": "2026-07-22T23:02:05.378Z",
       "firstSeen": "2026-07-16"
-    },
-    {
-      "id": "ev-にて-too-cool-for-school-の商品を1点以上ご購入いただき-2026-07-24-2026-08-13",
-      "title": "韓国発コスメブランド「too cool for school」渋谷ロフトで期間限定POP-UPイベントを開催／人気商品やオリジナルグッズが当たるSNSキャンペーンも実施",
-      "brand": "TOO COOL FOR SCHOOL CO., LTD",
-      "prefecture": "東京都",
-      "venue": "にて「too cool for school」の商品を1点以上ご購入いただき",
-      "lat": 35.69,
-      "lng": 139.69,
-      "startDate": "2026-07-24",
-      "endDate": "2026-08-13",
-      "url": "https://prtimes.jp/main/html/rd/p/000000029.000119385.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/119385/29/119385-29-1f6620adf49a1cc2ef3038155119370c-1280x800.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "韓国発のコスメブランド「too cool for school（トゥークールフォースクール）」は、7月24日（金）～8月13日（木）に渋谷ロフト2階美容・健康雑貨フロアにてPOP-UPイベントを開催いたします。本POP-UPイベントでは、人…",
-      "verified": false,
-      "collectedAt": "2026-07-22T23:01:55.951Z",
-      "firstSeen": "2026-07-22"
     },
     {
       "id": "ev-内には-2026-08-01-2026-09-30",
