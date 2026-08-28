@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T02:54:43.428Z",
+  "updatedAt": "2026-08-28T05:57:28.191Z",
   "events": [
     {
       "id": "ev-となるmaison-kos-銀座では-2026-07-01-2026-08-31",
@@ -54,24 +54,6 @@
       "verified": false,
       "collectedAt": "2026-07-22T23:02:06.894Z",
       "firstSeen": "2026-07-22"
-    },
-    {
-      "id": "ev-pop-up-store-2026-08-21-2026-08-27",
-      "title": "【イベントレポート】イガリシノブによるメイクデモを披露「whomee」リブランディング発表会を開催",
-      "brand": "株式会社MUSCAT GROUP",
-      "prefecture": "東京都",
-      "venue": "POP UP STORE",
-      "lat": 35.69,
-      "lng": 139.69,
-      "startDate": "2026-08-21",
-      "endDate": "2026-08-27",
-      "url": "https://prtimes.jp/main/html/rd/p/000000297.000019306.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/19306/297/19306-297-241e2e27ed7466486fd950d19f5fbad1-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "株式会社MUSCAT GROUP（本社：東京都渋谷区、代表取締役：大久保 遼、証券コード：195A）の連結子会社で、「WinK TO COMMUNITY」をミッションに、心躍るプロダクト・サービスを創出する株式会社WinC（代表取締役：荻原…",
-      "verified": false,
-      "collectedAt": "2026-07-21T22:55:05.082Z",
-      "firstSeen": "2026-06-30"
     },
     {
       "id": "ev-takanawa-gateway-city-newoman-takanawa-south-2026-08-22-2026-08-29",
