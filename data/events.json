@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T23:52:58.705Z",
+  "updatedAt": "2026-08-31T00:12:18.001Z",
   "events": [
     {
       "id": "ev-となるmaison-kos-銀座では-2026-07-01-2026-08-31",
@@ -54,24 +54,6 @@
       "verified": false,
       "collectedAt": "2026-07-22T23:02:06.894Z",
       "firstSeen": "2026-07-22"
-    },
-    {
-      "id": "ev-takanawa-gateway-city-newoman-takanawa-south-2026-08-22-2026-08-29",
-      "title": "昨年2万人超を動員！ヘア&メイクアップアーティスト小田切ヒロが手がけるPOPUP『おすすめには、愛がある。展 -THE TAG MARKET-』2026年8月22日（土）〜29日（土）で開催決定",
-      "brand": "Nous株式会社",
-      "prefecture": "東京都",
-      "venue": "TAKANAWA GATEWAY CITY NEWoMan TAKANAWA South",
-      "lat": 35.69,
-      "lng": 139.69,
-      "startDate": "2026-08-22",
-      "endDate": "2026-08-29",
-      "url": "https://prtimes.jp/main/html/rd/p/000000009.000158160.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/158160/9/158160-9-bc8546bca89b7a569b860dad46cd3811-1920x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "ヘア&メイクアップアーティストの小田切ヒロが代表を務めるNous株式会社は、2026年8月22日(土)から29日(土)の8日間、東京・高輪のTAKANAWA GATEWAY CITY NEWoMan TAKANAWA South 2F・3F…",
-      "verified": true,
-      "collectedAt": "2026-07-22T23:01:47.147Z",
-      "firstSeen": "2026-07-08"
     }
   ]
 }
