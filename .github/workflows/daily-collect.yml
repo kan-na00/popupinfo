@@ -42,3 +42,13 @@ jobs:
             git commit -m "chore: 毎日のサンプル情報更新"
             git push
           fi
+
+      - name: Vercel 本番へデプロイ
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: team_y6GFIYvCNz2e5xdmhJFskBjg
+          VERCEL_PROJECT_ID: prj_bXGQ3DqAkgdAWA7wVI2K6z5w3O5h
+        run: |
+          npx --yes vercel pull --yes --environment=production --token="$VERCEL_TOKEN"
+          npx --yes vercel build --prod --token="$VERCEL_TOKEN"
+          npx --yes vercel deploy --prebuilt --prod --token="$VERCEL_TOKEN"

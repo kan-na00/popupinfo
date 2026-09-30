@@ -219,10 +219,14 @@ async function prtimesSearch(keyword) {
     encodeURIComponent(keyword);
   const $ = cheerio.load(await fetchText(url));
   const out = [];
-  $('a[class^="release-card_link__"]').each((_, el) => {
-    const href = $(el).attr("href");
-    if (href && href.includes("/main/html/rd/p/")) {
-      out.push(href.startsWith("http") ? href : "https://prtimes.jp" + href);
+  const seen = new Set();
+  // リリースへのリンクはURLパターンで拾う（PR TIMESのクラス名変更に強い）
+  $('a[href*="/main/html/rd/p/"]').each((_, el) => {
+    const href = $(el).attr("href") || "";
+    const m = href.match(/\/main\/html\/rd\/p\/\d+\.\d+\.html/);
+    if (m && !seen.has(m[0])) {
+      seen.add(m[0]);
+      out.push("https://prtimes.jp" + m[0]);
     }
   });
   return out.slice(0, PER_KEYWORD);
