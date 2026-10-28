@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T01:08:49.388Z",
+  "updatedAt": "2026-10-28T00:59:05.458Z",
   "events": [
     {
       "id": "ev-名-ララ-ィ-松坂屋名古屋店-pop-up-store-オープン日-2026年7月15日-2026-07-15-2026-12-31",
@@ -34,7 +34,7 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/17308/265/17308-265-d2d96fc2b1b83b209b40020fd6184dbc-3303x2202.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "日本の優れた商品・サービスを発掘・認定し、国内外に発信するプログラム「OMOTENASHI Selection（おもてなしセレクション）」は、2026年10月3日(土)〜11月1日(日)の期間、佐賀県・嬉野温泉の老舗旅館「和多屋別荘」にてポ…",
       "verified": false,
-      "collectedAt": "2026-10-27T01:08:35.900Z",
+      "collectedAt": "2026-10-28T00:58:50.546Z",
       "firstSeen": "2026-10-04"
     },
     {
@@ -52,7 +52,7 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/76505/460/76505-460-605b0e532cf167d9710ecd5887ca57b6-3200x1600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "韓国コスメブランド「rom&nd（ロムアンド）」は、ブランド誕生10周年を記念したPOPUP「Dear, Bestie 10th rom&nd birthday party! 」を、2026年10月10日（土）から10月28日（水）まで東急…",
       "verified": false,
-      "collectedAt": "2026-10-27T01:07:59.062Z",
+      "collectedAt": "2026-10-28T00:58:13.443Z",
       "firstSeen": "2026-10-02"
     },
     {
@@ -70,44 +70,8 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/149331/3/149331-3-215b88a6e7ebebc29ccd4ad70ee1e03d-1913x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "渋谷の商業3施設：渋谷ヒカリエ／渋谷スクランブルスクエア／SHIBUYA109にて、今のソウルで最も旬なフードを集積した催事、ファッションブランドやコスメのポップアップストアを各施設ごとに展開するイベント「DISTRICT SEOUL SH…",
       "verified": false,
-      "collectedAt": "2026-10-27T01:07:56.157Z",
+      "collectedAt": "2026-10-28T00:58:09.786Z",
       "firstSeen": "2026-10-07"
-    },
-    {
-      "id": "ev-cosme-tokyo-2f-ポップアップスペース-東京都渋谷区神宮前1-14-27-2026-10-21-2026-10-27",
-      "title": "一生モノの美肌パートナーを見つける！シュウ ウエムラが「運命クレンジング」に出会える体験イベントを、@cosme TOKYOにて10月21日（水）から開催！",
-      "brand": "日本ロレアル株式会社",
-      "prefecture": "東京都",
-      "venue": "＠cosme TOKYO 2F ポップアップスペース 東京都渋谷区神宮前1-14-27 ",
-      "lat": 35.69,
-      "lng": 139.69,
-      "startDate": "2026-10-21",
-      "endDate": "2026-10-27",
-      "url": "https://prtimes.jp/main/html/rd/p/000000190.000032312.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/32312/190/32312-190-6a1151a74d19192efd58acfdea37c8e3-1672x941.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "※画像はイメージです 日本発のメイクアップアーティストブランド 『シュウ ウエムラ』は、ブランドのアイコンであるクレンジング オイルの中から、あなたにとっての“運命の”クレンジング オイルを見つける体験イベントを10月21日(水)から10月…",
-      "verified": true,
-      "collectedAt": "2026-10-21T00:23:13.507Z",
-      "firstSeen": "2026-10-03"
-    },
-    {
-      "id": "ev-cosme-tokyo-2f-ポップアップスペース-東京都渋谷区神宮前1-14-2-2026-10-21-2026-10-27",
-      "title": "金城碧海(JO1)らが「運命クレンジング」に出会える体験イベントに来場！​",
-      "brand": "日本ロレアル株式会社",
-      "prefecture": "東京都",
-      "venue": "＠cosme TOKYO 2F ポップアップスペース 東京都渋谷区神宮前1- 14- 2",
-      "lat": 35.69,
-      "lng": 139.69,
-      "startDate": "2026-10-21",
-      "endDate": "2026-10-27",
-      "url": "https://prtimes.jp/main/html/rd/p/000000192.000032312.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/32312/192/32312-192-4c63619b2ce87f9781aa696060152771-3000x1687.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "日本発のメイクアップアーティストブランド 『シュウ ウエムラ』は、ブランドのアイコンであるクレンジング オイルをテーマとした​「運命クレンジング」に出会える体験イベントを2026年10月21日(水)から10月27日(火)まで@cosme T…",
-      "verified": true,
-      "collectedAt": "2026-10-27T01:08:03.646Z",
-      "firstSeen": "2026-10-22"
     },
     {
       "id": "ev-には全71ブランドが集結し-2026-10-23-2026-11-08",
@@ -124,7 +88,7 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/71607/107/71607-107-1ab6f497820ccc4ebf4c0eedceda03eb-1056x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "韓国を代表するファッションプラットフォーム「MUSINSA（ムシンサ）」は、2026年10月23日（金）より17日間、大阪・梅田の「VS.（ヴイエス）」にて、『MUSINSA Osaka Pop-Up Store 2026』を開催いたします…",
       "verified": true,
-      "collectedAt": "2026-10-27T01:07:59.546Z",
+      "collectedAt": "2026-10-28T00:58:13.922Z",
       "firstSeen": "2026-09-30"
     },
     {
@@ -142,8 +106,26 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/191339/2/191339-2-75606a81d58273110e52278757fcc192-904x510.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "■ 会場：東京・原宿｜神宮前4-25-29 2F ・東京メトロ 明治神宮前駅より徒歩3分 ・東京メトロ 表参道駅より徒歩7分 ・山手線 原宿駅より徒歩8分 開催期間：2026年10月27日（火）～10月31日（土） 営業時間：11:00～2…",
       "verified": true,
-      "collectedAt": "2026-10-27T01:07:52.503Z",
+      "collectedAt": "2026-10-28T00:58:06.911Z",
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "ev-東京都-2026-11-03-2026-11-08",
+      "title": "【TIRTIR】\"自分らしい輝きを見つけるホテルステイ\"がテーマの体験型POPUP『GLAM SUITE OF GLOW』を表参道にて期間限定開催。11月3日（火・祝）～11月8日（日）",
+      "brand": "株式会社Goodai Global Japan",
+      "prefecture": "東京都",
+      "venue": "東京都",
+      "lat": 35.69,
+      "lng": 139.69,
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-08",
+      "url": "https://prtimes.jp/main/html/rd/p/000000085.000127171.html",
+      "source": "PR TIMES",
+      "image": "https://prcdn.freetls.fastly.net/release_image/127171/85/127171-85-40e9f6d40a2cc1b5278a0e6c1fa56a30-1080x1350.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "description": "株式会社Goodai Global Japan（本社：東京都港区、代表取締役社長：呉 東勲）が展開する韓国発のコスメブランド「TIRTIR（ティルティル）」は、2026年11月3日（火・祝）～11月8日（日）までの6日間、クラシカルなホテル…",
+      "verified": false,
+      "collectedAt": "2026-10-28T00:58:01.159Z",
+      "firstSeen": "2026-10-28"
     },
     {
       "id": "ev-東京都-2026-11-07-2026-11-27",
@@ -160,7 +142,7 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/85936/323/85936-323-3f3c104c567f5ca641fc75966b1aeb75-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "株式会社サイバーエージェント（本社：東京都渋谷区、代表取締役社長：山内隆裕、東証プライム市場：証券コード4751）は、\"わたしの推しでわたしを彩る\"をコンセプトに『推し』とのコラボコスメを展開するコスメブランド「iCouleur（アイクルー…",
       "verified": false,
-      "collectedAt": "2026-10-27T01:07:52.944Z",
+      "collectedAt": "2026-10-28T00:58:07.381Z",
       "firstSeen": "2026-10-15"
     },
     {
@@ -178,12 +160,12 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/57117/43/57117-43-e154ad586de7879509db801cbd767116-1110x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "株式会社HARIAS（本社：東京都渋谷区、代表取締役社長：池田みどり）は、11月6日（金）「HARIAS薬用クッションファンデーションX」新発売を記念し、ブランドのCMキャラクターを務めるIMP.とコラボしたスペシャルポップアップストア「フ…",
       "verified": false,
-      "collectedAt": "2026-10-27T01:08:04.163Z",
+      "collectedAt": "2026-10-28T00:58:17.974Z",
       "firstSeen": "2026-10-21"
     },
     {
       "id": "ev-を巡りながら-2026-11-18-2026-11-24",
-      "title": "「Tokyo Beauty Week2026」体験型コンテンツ「Beauty Walk」は10月26日（月）より予約開始　チケットプラン、業界の垣根を越えた共創パートナー第1弾発表",
+      "title": "原宿・表参道の街を巡りながら、ビューティーと出会う「Tokyo Beauty Week2026」 体験型コンテンツ「Beauty Walk」のブランド別体験、スペシャルステージ内容を公開",
       "brand": "株式会社アイスタイル",
       "prefecture": "宮城県",
       "venue": "を巡りながら",
@@ -191,12 +173,12 @@
       "lng": 140.87,
       "startDate": "2026-11-18",
       "endDate": "2026-11-24",
-      "url": "https://prtimes.jp/main/html/rd/p/000000521.000005126.html",
+      "url": "https://prtimes.jp/main/html/rd/p/000000525.000005126.html",
       "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/5126/521/5126-521-6dd924fbe3430990f785e1a281bdc3c6-600x400.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "image": "https://prcdn.freetls.fastly.net/release_image/5126/525/5126-525-4ec893f6ffd51ae7b3b20767365bdb2b-323x324.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "Tokyo Beauty Week実行委員会（企画・運営：株式会社アイスタイル）は、2026年11月18日（水）～11月24日（火）の7日間、原宿・表参道エリアにて開催する「Tokyo Beauty Week 2026」の一般参加者向けコン…",
       "verified": false,
-      "collectedAt": "2026-10-27T01:07:55.637Z",
+      "collectedAt": "2026-10-28T00:58:02.969Z",
       "firstSeen": "2026-09-30"
     }
   ]
