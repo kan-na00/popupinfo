@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T05:45:36.874Z",
+  "updatedAt": "2026-11-26T03:57:46.043Z",
   "events": [
     {
       "id": "ev-名-ララ-ィ-松坂屋名古屋店-pop-up-store-オープン日-2026年7月15日-2026-07-15-2026-12-31",
@@ -34,7 +34,7 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/152391/7/152391-7-68764d0cdbb39f12c328cfb6c5bd47a3-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "アンファー株式会社（本社：東京都千代田区、以下「アンファー」）が展開するヘアケアブランド「スカルプD ネクストプラス」と連携し、2026年11月に全国のL-MARK対象店舗にて、プロパフォーマンスシャンプー＆プロパフォーマンスパックトリート…",
       "verified": true,
-      "collectedAt": "2026-11-24T05:44:40.419Z",
+      "collectedAt": "2026-11-26T03:57:12.316Z",
       "firstSeen": "2026-11-03"
     },
     {
@@ -56,60 +56,6 @@
       "firstSeen": "2026-10-15"
     },
     {
-      "id": "ev-を巡りながら-2026-11-18-2026-11-24",
-      "title": "ビューティーの祭典「Tokyo Beauty Week2026」体験型コンテンツ「Beauty Walk」チケット予約開始！",
-      "brand": "株式会社アイスタイル",
-      "prefecture": "宮城県",
-      "venue": "を巡りながら",
-      "lat": 38.27,
-      "lng": 140.87,
-      "startDate": "2026-11-18",
-      "endDate": "2026-11-24",
-      "url": "https://prtimes.jp/main/html/rd/p/000000531.000005126.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/5126/531/5126-531-6dd924fbe3430990f785e1a281bdc3c6-600x400.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "Tokyo Beauty Week実行委員会（企画・運営：株式会社アイスタイル）は、2026年11月18日（水）～11月24日（火）の7日間、原宿・表参道エリアにて開催する「Tokyo Beauty Week 2026」の一般参加者向けコン…",
-      "verified": false,
-      "collectedAt": "2026-11-16T01:34:31.670Z",
-      "firstSeen": "2026-09-30"
-    },
-    {
-      "id": "ev-cosme-tokyo-2階-東京都渋谷区神宮前1丁目14-27-アクセス-jr原宿-2026-11-18-2026-11-24",
-      "title": "【キャンメイク】ビューティーの祭典「Tokyo Beauty Week 2026」に参加！@cosme TOKYO にて“カレッジ風”をテーマとしたPOPUP STOREを開催",
-      "brand": "株式会社 井田ラボラトリーズ",
-      "prefecture": "東京都",
-      "venue": "@cosme TOKYO 2階 東京都渋谷区神宮前1丁目14−27 ＜アクセス＞JR原宿",
-      "lat": 35.69,
-      "lng": 139.69,
-      "startDate": "2026-11-18",
-      "endDate": "2026-11-24",
-      "url": "https://prtimes.jp/main/html/rd/p/000000273.000019685.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/19685/273/19685-273-b901aae27c86adaa9c25b8012367ba20-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "株式会社井田ラボラトリーズ（本部：東京都千代田区、代表取締役社長：井田 仁祥）のメイクアップブランド「キャンメイク」は、Tokyo Beauty Week 実行委員会（企画・運営 株式会社アイスタイル）が主催する「Tokyo Beauty …",
-      "verified": false,
-      "collectedAt": "2026-11-24T05:44:27.652Z",
-      "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "ev-神奈川県-2026-11-18-2026-11-24",
-      "title": "【日本初開催】韓国で累計900万本・売上350億円突破のバイオコスメ「cepoLAB（セポラボ）」が＠cosme OSAKAにて期間限定ポップアップを開催！",
-      "brand": "グランソルース株式会社",
-      "prefecture": "神奈川県",
-      "venue": "神奈川県",
-      "lat": 35.45,
-      "lng": 139.64,
-      "startDate": "2026-11-18",
-      "endDate": "2026-11-24",
-      "url": "https://prtimes.jp/main/html/rd/p/000000005.000141690.html",
-      "source": "PR TIMES",
-      "image": "https://prcdn.freetls.fastly.net/release_image/141690/5/141690-5-fc202052d470d06dff3fe6a3ef0bac76-1080x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "description": "セポラボ国内初のポップアップイベントをアットコスメオーサカにて開催 グランソルース株式会社（本社：神奈川県横浜市、代表取締役：趙 晃大）は、韓国のバイオテクノロジー企業FugenBio社が手がけるバイオビューティーブランド「cepoLAB（…",
-      "verified": true,
-      "collectedAt": "2026-11-24T05:44:18.599Z",
-      "firstSeen": "2026-11-14"
-    },
-    {
       "id": "ev-東京都-2026-11-18-2026-11-29",
       "title": "韓国の“今”と出会う、ワクワクの12日間！K-Beauty POP-UP「STUDIO SEOUL」が東京・木場に登場！",
       "brand": "一般社団法人韓国化粧品協会",
@@ -124,7 +70,7 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/122777/8/122777-8-675f8c9f9f9f906c29b689835e14fc97-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "一般社団法人韓国化粧品協会とメディブリッジ株式会社は、2026年11月18日（水）から11月29日（日）までの12日間、東京都江東区のイトーヨーカドー木場店にて、韓国のビューティーとライフスタイルを楽しめる期間限定POP-UP STORE「…",
       "verified": true,
-      "collectedAt": "2026-11-24T05:44:19.611Z",
+      "collectedAt": "2026-11-26T03:56:51.365Z",
       "firstSeen": "2026-11-14"
     },
     {
@@ -142,7 +88,7 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/19685/274/19685-274-4c67452ec39ad824c626c57fc9094851-1193x960.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "※会場イメージ 株式会社井田ラボラトリーズ（本部：東京都千代田区、代表取締役社長：井田 仁祥）のメイクアップブランド「キャンメイク」は、 2026年11月20日（金）に新宿マルイ 本館（東京都新宿区）に出店する「PLAZA TOKYO+ 新…",
       "verified": false,
-      "collectedAt": "2026-11-24T05:45:34.800Z",
+      "collectedAt": "2026-11-26T03:57:45.086Z",
       "firstSeen": "2026-11-19"
     },
     {
@@ -160,7 +106,7 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/107950/226/107950-226-61a060364daa3477c06857dfe886c75f-1080x1350.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "株式会社DONGRAMY PROJECTが展開する韓国コスメ・スキンケアブランド「ShionLe（ションリ）」は、アーティスト・宮川大聖さんとのタイアップ企画として、コラボセット「宮川大聖 ’S PICK」を販売いたします。 本セットをご購…",
       "verified": false,
-      "collectedAt": "2026-11-24T05:45:35.249Z",
+      "collectedAt": "2026-11-26T03:57:45.415Z",
       "firstSeen": "2026-11-19"
     },
     {
@@ -178,7 +124,7 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/18096/355/18096-355-0ab0a28caffd1d12d18c76924c31cce9-3900x2476.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "11月25日（水）～12月1日（火）の期間中、ジェイアール名古屋タカシマヤにてホリデーギフトが揃うイベントを開催します。今年のホリデーコレクションや新フレグランス〈ルール ブルー〉を含む特別コフレの他、本イベント限定の特典もご用意しています…",
       "verified": false,
-      "collectedAt": "2026-11-24T05:44:24.276Z",
+      "collectedAt": "2026-11-26T03:56:56.649Z",
       "firstSeen": "2026-11-19"
     },
     {
@@ -196,7 +142,7 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/83751/162/83751-162-dc3bcc377ea4e857cfe4197ec1c53f18-1600x1000.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "エムスタイルジャパン株式会社（本社：福岡市中央区、代表取締役：稲冨幹也）の天然アナツバメの巣を使用したサステナブルコスメブランド「BI-SU＜ビース＞」は、2026/11/25（水）〜12/1（火）に、阪急うめだ本店 2階 きれいきれいスタ…",
       "verified": false,
-      "collectedAt": "2026-11-24T05:44:13.038Z",
+      "collectedAt": "2026-11-26T03:56:45.867Z",
       "firstSeen": "2026-11-20"
     },
     {
@@ -214,7 +160,7 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/120553/18/120553-18-4cd32c5e62021cea77cce2e24b8799a3-3811x2459.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "「SARANGHAEYO（サランヘヨ）」とは 2020年にソウルで創業。創業者のSung Soo Kimは、高級フレグランスを展開するラグジュアリーグループでの16年の経験をもとに、写真と自身が訪れた土地からインスピレーションを受けながら、…",
       "verified": false,
-      "collectedAt": "2026-11-24T05:44:12.143Z",
+      "collectedAt": "2026-11-26T03:56:45.217Z",
       "firstSeen": "2026-11-24"
     },
     {
@@ -232,7 +178,7 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/175792/6/175792-6-0e692f2ff269861c75a99d36ca54c028-1380x920.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "株式会社ジャヨンイン（韓国ソウル特別区、代表取締役社長：イ・ジンミン）が展開する韓国発のナチュラルスキンケアブランド「ISOI（アイソイ）」は11月26日(木)から12月2日(水)まで、SHIBUYA BEAUTY JAM THE WEEK…",
       "verified": false,
-      "collectedAt": "2026-11-24T05:44:15.356Z",
+      "collectedAt": "2026-11-26T03:56:47.506Z",
       "firstSeen": "2026-11-18"
     },
     {
@@ -268,7 +214,7 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/54399/235/54399-235-3783cbe9b2b13fe531a86ec9a7942468-1920x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "description": "BRANDING PRODUCE COMPANYである株式会社Direct Tech（本社：東京都渋谷区、代表取締役社長：井上 信太郎、以下Direct Tech）は、メイクアップクリエイター“マリリン”との協働プロデュースコスメブランド『…",
       "verified": true,
-      "collectedAt": "2026-11-24T05:44:27.212Z",
+      "collectedAt": "2026-11-26T03:56:59.458Z",
       "firstSeen": "2026-11-14"
     }
   ]
